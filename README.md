@@ -4,22 +4,28 @@
 
 <h3 align="center">Hey, I'm Jahvon</h3>
 
-Software and platform engineer in Boston. Developer tooling and cloud-native
-systems, mostly — but I follow my curiosity, and it tends to wander.
+<p align="center">
+  Software and platform engineer in Boston.<br>
+  Developer tooling, cloud-native systems, and wherever curiosity leads.
+</p>
 
-I build things to understand them. **[jahvon.dev](https://jahvon.dev)** is the
-record of that: what I'm working on, what I'm figuring out, and occasionally
-what I got wrong.
+<p align="center">
+  I build things to understand them.<br>
+  <a href="https://jahvon.dev">jahvon.dev</a> is the record of that.
+</p>
 
-|  |  |
-|---|---|
-| [**About**](https://jahvon.dev/about/) | Where I've been, and what I'm doing now |
-| [**Architecture**](https://jahvon.dev/architecture/) | Design docs for the systems I build |
-| [**Lab Notes**](https://jahvon.dev/notes/) | Long-form writing on the work |
-| [**Dockery Labs**](https://labs.jahvon.dev) | R&D, and select engineering work |
+<p align="center">
+  <a href="https://jahvon.dev/about/">About</a> ·
+  <a href="https://jahvon.dev/architecture/">Architecture</a> ·
+  <a href="https://jahvon.dev/notes/">Lab Notes</a> ·
+  <a href="https://labs.jahvon.dev">Dockery Labs</a>
+</p>
 
-Most of my open source lives in [**@flowexec**](https://github.com/flowexec) —
-including [flow](https://github.com/flowexec/flow), a local-first CLI for
-defining and running your project's workflows.
+<p align="center">
+  Most of my open source lives in <a href="https://github.com/flowexec">@flowexec</a>.
+</p>
 
-[LinkedIn](https://linkedin.com/in/jahvon) · [RSS](https://jahvon.dev/notes/index.xml)
+<p align="center">
+  <a href="https://linkedin.com/in/jahvon">LinkedIn</a> ·
+  <a href="https://jahvon.dev/notes/index.xml">RSS</a>
+</p>
